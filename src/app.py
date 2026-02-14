@@ -7,7 +7,7 @@ import tempfile
 import os
 
 # Settings
-MODEL_PATH = 'Models/emotion_model.keras' # Or emotion_model_final.keras
+MODEL_PATH = 'D:/RUSL/Third Year/my/ICT3212 - Introduction to Intelligent Systems/Project/Facial Emotion Detection System/Models/emotion_model_final_nb.keras' # Or emotion_model_final.keras
 # Emotion labels mapping (0=Anger, 1=Fear, 2=Happy, 3=Sad, 4=Surprise, 5=Neutral)
 EMOTION_LABELS = {0: 'Anger', 1: 'Fear', 2: 'Happy', 3: 'Sad', 4: 'Surprise', 5: 'Neutral'}
 
