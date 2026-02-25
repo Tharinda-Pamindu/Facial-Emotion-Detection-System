@@ -1,4 +1,5 @@
 <div><img src="/assets/ss-1.png" alt="FR" /></div>
+
 # 🎭 Facial Emotion Detection System
 
 <div align="center">
@@ -242,13 +243,13 @@ run_app.bat
 
 ## 👥 Team — Inflators
 
-| Member              | Role            |
-| ------------------- | --------------- |
-| DTPD Wickramasinghe | 👑 Group Leader |
-| DVTR Vitharana      | Member          |
-| RSR Ranathunga      | Member          |
-| DDSS Kumasaru       | Member          |
-| SHD Mihidumpita     | Member          |
+| Member              | Role            | Github                                             |
+| ------------------- | --------------- |----------------------------------------------------|
+| DTPD Wickramasinghe | 👑 Group Leader | [Tharinda](https://github.com/Tharinda-Pamindu)    |
+| DVTR Vitharana      | Member          | [Thinuka](https://github.com/Thinuka2835)          |
+| RSR Ranathunga      | Member          | [Sanka](https://github.com/Sanka139)               |
+| DDSS Kumasaru       | Member          | [Dilakshi](https://github.com/Dilakshi13)          |
+| SHD Mihidumpita     | Member          | [Hansa]()                     |
 
 ---
 
