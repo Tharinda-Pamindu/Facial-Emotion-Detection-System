@@ -243,13 +243,13 @@ run_app.bat
 
 ## 👥 Team — Inflators
 
-| Member              | Role            | Github                                             |
-| ------------------- | --------------- |----------------------------------------------------|
-| DTPD Wickramasinghe | 👑 Group Leader | [Tharinda](https://github.com/Tharinda-Pamindu)    |
-| DVTR Vitharana      | Member          | [Thinuka](https://github.com/Thinuka2835)          |
-| RSR Ranathunga      | Member          | [Sanka](https://github.com/Sanka139)               |
-| DDSS Kumasaru       | Member          | [Dilakshi](https://github.com/Dilakshi13)          |
-| SHD Mihidumpita     | Member          | [Hansa]()                     |
+| Member              | Role            | Github                                          |
+| ------------------- | --------------- | ----------------------------------------------- |
+| DTPD Wickramasinghe | 👑 Group Leader | [Tharinda](https://github.com/Tharinda-Pamindu) |
+| DVTR Vitharana      | Member          | [Thinuka](https://github.com/Thinuka2835)       |
+| RSR Ranathunga      | Member          | [Sanka](https://github.com/Sanka139)            |
+| DDSS Kumasaru       | Member          | [Dilakshi](https://github.com/Dilakshi13)       |
+| SHD Mihidumpita     | Member          | [Hansa]()                                       |
 
 ---
 
